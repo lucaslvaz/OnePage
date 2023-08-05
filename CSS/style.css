@@ -20,7 +20,7 @@
             }
 
 
-/*===================SEÇÃO DE TAGS===================*/
+/*===================SEÇÃO DE CLASS===================*/
 
 
             .imagem-telefone {
@@ -29,4 +29,20 @@
 
             .imagem-email {
                 background-color: bisque;
+            }
+
+
+/*===================SEÇÃO DE IDs===================*/
+           
+
+            #sobre-mim {
+                color: palevioletred;
+            }
+
+            #oquegostodefazer {
+                color: palevioletred;
+            }
+
+            #oquegostodefazer:hover {
+                color: bisque;
             }
