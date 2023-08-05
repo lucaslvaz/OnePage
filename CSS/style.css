@@ -1,5 +1,7 @@
 
-            body {
+ /*===================SEÇÃO DE TAGS===================*/
+           
+           body {
                 background-color: #27374D;
             }
 
@@ -17,4 +19,14 @@
                 color: #66BFBF;
             }
 
-      
+
+/*===================SEÇÃO DE TAGS===================*/
+
+
+            .imagem-telefone {
+                background-color: purple;
+            }
+
+            .imagem-email {
+                background-color: bisque;
+            }
